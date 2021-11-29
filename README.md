@@ -1,11 +1,16 @@
 # Mad-Libs-Game
 A simple word game  for final project
-EADME Mad Libs Game
-"""
+Mad Libs Game
+
+
 Author : mhmarand <mhmarand@localhost>
+
 Date   : 2021-11-22
+
 Purpose: A Silly word game popularly known as Mad Libs 
-"""
+
+## Description
+
 Mad Libs is a game, often played by children, where one player will ask another player
 for a series of words to formulate a paragraph statement without the other player knowing what the statement 
 or scenario will be. 
